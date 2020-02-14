@@ -412,3 +412,8 @@ details summary h3, details summary h4, details summary h5, details summary h6 {
   display: inline-block;
   margin-left: 16px;
 }
+
+h5 {
+  font-style: italic;
+  font-size: 0.9rem;
+}
